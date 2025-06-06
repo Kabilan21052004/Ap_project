@@ -8,6 +8,10 @@ A professional web application that leverages AI and interactive 3D visuals to a
 Demo video: 
 
 
+https://github.com/user-attachments/assets/53664e00-9503-4372-a980-52467f78dbf8
+
+
+
 ## Features
 
 * AI-Powered Resume Analysis (Gemini 2.0 Flash)
